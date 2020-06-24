@@ -39,7 +39,7 @@ void loop() {
   analogWrite(LED, brillo); // Escritura análoga (PWM) en el pin LED
 
   brillo = brillo + variacion;
-  if (brillo == 0 || brillo == 255)
-    variacion = -variacion; // Se invierte el sentido de la variación
-  delay(30);                // Tiempo de incremento en el brillo
+  if (brillo == 0 || brillo == 255) // Si el brillo es 0 o 255
+    variacion = -variacion; 		// Se invierte el sentido de la variación
+  delay(30);                		// Tiempo de incremento en el brillo
 }
