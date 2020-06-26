@@ -1,7 +1,7 @@
 # Taller básico de Arduino
 Development with arduino
 
-## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/){:"target"="_blank"}  (26/06/2020) 360h
+## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/"(target | _blank)")  (26/06/2020) 360h
 
 
 ### Módulo 1:
