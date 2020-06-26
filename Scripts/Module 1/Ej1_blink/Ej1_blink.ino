@@ -4,23 +4,20 @@
     CEIMTUN -  RAS, IEEE
     El pin digital 13 está conenctado por defecto a una resitencia
     y un LED
-	
-	Este código de ejemplo está en el dominio público.
-    https://www.arduino.cc/en/Tutorial/HomePage
 */
 
-int LED = 13;
+int pinLED = 13;
 
 void setup()
 {
   // Initialize digital Pin LED as an output.
-  pinMode(LED, OUTPUT);
+  pinMode(pinLED, OUTPUT);
 }
 
 void loop()
 {
-  digitalWrite(LED, HIGH); // Turn the LED on (HIGH is the voltage level)
+  digitalWrite(pinLED, HIGH); // Turn the LED on (HIGH is the voltage level)
   delay(1000);             // Espera 1000 milisegundos = 1 second
-  digitalWrite(LED, LOW);  // Turn the LED off by making the voltage LOW
+  digitalWrite(pinLED, LOW);  // Turn the LED off by making the voltage LOW
   delay(1000);             // Espera 1000 milisegundos = 1 second
 }

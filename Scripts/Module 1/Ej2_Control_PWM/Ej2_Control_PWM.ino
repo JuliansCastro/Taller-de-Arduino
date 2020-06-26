@@ -25,18 +25,18 @@
 
 int brillo = 0;
 int variacion = 5; // Incremento configurado de 5 en 5
-int LED = 9;       // Pin donde se encuentra el LED, salida PWM("~")
+int pinLED = 9;       // Pin donde se encuentra el LED, salida PWM("~")
 
 // Función de configuración
 void setup() {
   // put your setup code here, to run once:
-  pinMode(LED, OUTPUT); // Configura el pin LED como una salida
+  pinMode(pinLED, OUTPUT); // Configura el pin LED como una salida
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
 
-  analogWrite(LED, brillo); // Escritura análoga (PWM) en el pin LED
+  analogWrite(pinLED, brillo); // Escritura análoga (PWM) en el pin LED
 
   brillo = brillo + variacion;
   if (brillo == 0 || brillo == 255) // Si el brillo es 0 o 255

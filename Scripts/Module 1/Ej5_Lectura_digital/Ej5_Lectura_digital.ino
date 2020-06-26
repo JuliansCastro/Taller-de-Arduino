@@ -24,7 +24,7 @@
 */
 
 // Declara puertos de entrada/salida y variables
-int LED = 13;     // Pin para el LED
+int pinLED = 13;     // Pin para el LED
 int PULSADOR = 2; // Pin para el pulsador
 int contador = 0; // Guarda el conteo de los pulsos
 
@@ -32,7 +32,7 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);       // Inicializa la comunicación serial
   pinMode(PULSADOR, INPUT); // Configura el pin 2 como entrada para el pulsador
-  pinMode(LED, OUTPUT);     // Configura el pin 13 como salida para el LED
+  pinMode(pinLED, OUTPUT);     // Configura el pin 13 como salida para el LED
 }
 
 void loop() {
@@ -50,9 +50,9 @@ void loop() {
 
   // Si el valor del contador es 5
   if (contador == 5) {
-    digitalWrite(LED, HIGH); // Enciende el LED
+    digitalWrite(pinLED, HIGH); // Enciende el LED
   } // Si el valor del contador es 8
   if (contador == 8) {
-    digitalWrite(LED, LOW);  // Apaga el LED
+    digitalWrite(pinLED, LOW);  // Apaga el LED
   }
 }

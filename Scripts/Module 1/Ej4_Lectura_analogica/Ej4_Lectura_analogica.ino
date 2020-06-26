@@ -12,12 +12,12 @@
 	-----------------------------
 */
 
-int LED = 13;
+int pinLED = 13;
 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);   // Inicia comunicación serial a 9600 baudios
-  pinMode(LED, OUTPUT); // Configura el pin 13 como una salida
+  pinMode(pinLED, OUTPUT); // Configura el pin 13 como una salida
 }
 
 void loop() {
@@ -30,10 +30,10 @@ void loop() {
 
   // Si el valor es mayor o igual a 500
   if (valor >= 500) {
-    digitalWrite(LED, HIGH); // Enciende el LED
+    digitalWrite(pinLED, HIGH); // Enciende el LED
   } // Si el valor es menor a 500
   else {
-    digitalWrite(LED, LOW); // Apaga el LED
+    digitalWrite(pinLED, LOW); // Apaga el LED
   }
   delay(100); // Retardo de 100ms para ver los datos de la consola
 }
