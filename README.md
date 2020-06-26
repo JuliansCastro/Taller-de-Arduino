@@ -1,7 +1,7 @@
 # Taller básico de Arduino
 Development with arduino
 
-## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/)  (26/06/2020) 360h
+## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/){:target="_blank"}  (26/06/2020) 360h
 
 
 ### Módulo 1:
@@ -23,12 +23,3 @@ Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/mas
 3.
 4.
 -->
-
-<script>
-    var links = document.querySelectorAll( '.text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0' );  
-    for (var i = 0, length = links.length; i < length; i++) {  
-        if (links[i].hostname != window.location.hostname) {
-            links[i].target = '_blank';
-        }
-    }
-</script>
