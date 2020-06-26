@@ -5,13 +5,16 @@ Development with arduino
 
 
 ### Módulo 1:
-1. [Ejemplo 1: Blink](https://www.tinkercad.com/things/e0gzRiL9gP1-ejemplo-1-blink/editel?sharecode=ay08FT8b3fFBhm-3ZH7ngA4aT5ubjjLN4JDV97BeUUA/?target=_blank)
+1. [Ejemplo 1: Blink](https://www.tinkercad.com/things/e0gzRiL9gP1-ejemplo-1-blink/editel?sharecode=ay08FT8b3fFBhm-3ZH7ngA4aT5ubjjLN4JDV97BeUUA)
 2. [Ejemplo 2: Comunicación serial](https://www.tinkercad.com/things/eU47CH3TLI3-ejemplo-2-comunicacion-serial/editel?sharecode=fBCT8n6m4U__5fZ2fTRpjBNXwhF_0X8F-yxu5W9QcdE)
 3. [Ejemplo 3:  Control PWM](https://www.tinkercad.com/things/j7FX1q0Dqo7-ejemplo-3-control-pwm/editel?sharecode=dk92Qc-m-E6xAAS2yrwqjimdvX8OhAOwt11PyeSXr6s)
 4. [Ejemplo 4: Lectura analógica](https://www.tinkercad.com/things/bWROp4ul4Of-ejemplo-4-lectura-analogica/editel?sharecode=2qX-emEPXYNpc-FOdddp5Gm9lJsV9sHpomDEY0NsS8Q)
 
 
 Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%201/Module%201.zip?raw=true) del Módulo 1.
+
+
+
 
 <!--
 ### Módulo 2:
@@ -20,3 +23,12 @@ Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/mas
 3.
 4.
 -->
+
+<script>
+    var links = document.querySelectorAll( '.text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0' );  
+    for (var i = 0, length = links.length; i < length; i++) {  
+        if (links[i].hostname != window.location.hostname) {
+            links[i].target = '_blank';
+        }
+    }
+</script>
