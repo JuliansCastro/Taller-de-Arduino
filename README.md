@@ -13,8 +13,7 @@ Development with arduino
 
 Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%201/Module%201.zip?raw=true) del Módulo 1.
 
-
-
+Presentación del [Módulo 1](https://github.com/JuliansCastro/Arduino/raw/master/Scripts/Module%201/TallerArduinoM%C3%B3dulo1.pdf)
 
 <!--
 ### Módulo 2:
