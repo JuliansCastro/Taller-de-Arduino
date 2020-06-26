@@ -23,25 +23,3 @@ Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/mas
 3.
 4.
 -->
-
-/*
- * For all links in the current page...
- */
-$(document.links).filter(function() {
-    /*
-     * ...keep them without `target` already setted...
-     */
-    return !this.target;
-}).filter(function() {
-    /*
-     * ...and keep them are not on current domain...
-     */
-    return this.hostname !== window.location.hostname ||
-        /*
-         * ...or are not a web file (.pdf, .jpg, .png, .js, .mp4, etc.).
-         */
-        /\.(?!html?|php3?|aspx?)([a-z]{0,3}|[a-zt]{0,4})$/.test(this.pathname);
-/*
- * For all link kept, add the `target="_blank"` attribute. 
- */
-}).attr('target', '_blank'
