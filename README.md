@@ -1,5 +1,10 @@
 # Taller básico de Arduino
-Development with arduino
+Ejemplos sencillos de proyectos para iniciar con Arduino.
+
+Síguenos en nuestras redes:
+
+[Facebok Ceimtun - RAS](https://www.facebook.com/RAS.UNAL)
+[Instagram: Ceimtun - RAS](https://www.instagram.com/ceimtun/)
 
 ## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/)  (26/06/2020) 360h
 
