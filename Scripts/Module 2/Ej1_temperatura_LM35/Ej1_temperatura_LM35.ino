@@ -1,5 +1,5 @@
 /*
-  Curso básico de Arduino Módulo 2 -  Ejemplo 2: Temperatura con LM35
+  Curso básico de Arduino Módulo 2 -  Ejemplo 1: Temperatura con LM35
     Julián Andrés Castro
     Universidad Nacional de Colombia
     CEIMTUN -  RAS, IEEE

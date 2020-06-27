@@ -1,5 +1,5 @@
 /*
-  Curso básico de Arduino Módulo 2 -  Ejemplo 3: Luz con LDR
+  Curso básico de Arduino Módulo 2 -  Ejemplo 2: Luz con LDR
     Julián Andrés Castro
     Universidad Nacional de Colombia
     CEIMTUN -  RAS, IEEE

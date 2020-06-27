@@ -1,4 +1,4 @@
-/* Curso básico de Arduino Módulo 2 -  Ejemplo 4: Distancia con HC-SR04
+/* Curso básico de Arduino Módulo 2 -  Ejemplo 3: Distancia con HC-SR04
     Julián Andrés Castro
     Universidad Nacional de Colombia
     CEIMTUN -  RAS, IEEE
