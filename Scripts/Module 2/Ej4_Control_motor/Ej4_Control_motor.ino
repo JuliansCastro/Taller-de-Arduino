@@ -39,6 +39,7 @@ void loop() {
   Serial.print("Velocidad PWM: ");
   Serial.println(255);
   delay(2000);
+  
   // Apagamos el motor y esperamos 5 seg
   analogWrite(ENB, 0);
   delay(5000);

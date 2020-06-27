@@ -18,7 +18,13 @@ Presentación PDF del [Módulo 1](https://github.com/JuliansCastro/Arduino/blob/
 
 ### Módulo 2:
 
- Descargar la App (Android) [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
+
+1. [Ejemplo 1: Medir temperatura LM35](https://www.tinkercad.com/things/j1Sgh6FL2VY-ejemplo-2-medir-temperatura-lm35/editel?sharecode=OlEugO5BD0KaXN7G01dN20ZLQB6xkToIlc8x4XYxcoI)
+2. [Ejemplo 2: Interruptor por luz con LDR](https://www.tinkercad.com/things/8MdZXKl5Wy5-ejemplo-3-interruptor-por-luz-con-ldr/editel?sharecode=PBhHH_ZePjs61tb76Du0z2cDxDqa79N_kU2zb4j024s)
+3. [Ejemplo 3: Distancia con HC-SR04](https://www.tinkercad.com/things/4gGyFkM4FIl-ejemplo-4-distancia-con-hc-sr04/editel?sharecode=CRKsnE2sjzw33e-gDzeWsvJTM6euUXlolhk7zb9KfSo)
+4. Ejemplo 4: Control de motor con driver L298N
+5. Ejemplo 5: Comunicación Bluetooth
+Descargar la App (Android) [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
 
 Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%202/Module%202.zip?raw=true) del Módulo 2.
 
