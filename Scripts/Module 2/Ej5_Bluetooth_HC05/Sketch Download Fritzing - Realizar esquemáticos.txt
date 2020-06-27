@@ -1,0 +1,3 @@
+Para poder visualizar el archivo  esquemático "Sketch_BluetoothHC05_Fritzing.fzz"
+
+descargar  Fritzing:    https://fritzing.org/download/
