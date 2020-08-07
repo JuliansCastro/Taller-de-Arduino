@@ -6,7 +6,7 @@ Síguenos en nuestras redes:
 [Facebok Ceimtun - RAS](https://www.facebook.com/RAS.UNAL)
 [Instagram: Ceimtun - RAS](https://www.instagram.com/ceimtun/)
 
-## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/)  (26/06/2020) 360h
+## Links de los ejemplos en [Tinkercad.com](https://www.tinkercad.com/)  (7/08/2020) 360h
 
 
 ### Módulo 1:
@@ -20,7 +20,7 @@ Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/mas
 
 Presentación PDF del [Módulo 1](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%201/TallerArduinoM%C3%B3dulo1.pdf)
 
-
+<!--
 ### Módulo 2:
 
 
@@ -34,5 +34,5 @@ Descargar la App (Android) [Serial Bluetooth Terminal](https://play.google.com/s
 Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%202/Module%202.zip?raw=true) del Módulo 2.
 
 Presentación PDF del [Módulo 2](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%202/TallerArduinoM%C3%B3dulo2.pdf)
-
+-->
 
