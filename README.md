@@ -20,19 +20,19 @@ Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/mas
 
 Presentación PDF del [Módulo 1](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%201/TallerArduinoM%C3%B3dulo1.pdf)
 
-<!--
+
 ### Módulo 2:
 
 
-1. [Ejemplo 1: Medir temperatura LM35](https://www.tinkercad.com/things/j1Sgh6FL2VY-ejemplo-2-medir-temperatura-lm35/editel?sharecode=OlEugO5BD0KaXN7G01dN20ZLQB6xkToIlc8x4XYxcoI)
-2. [Ejemplo 2: Interruptor por luz con LDR](https://www.tinkercad.com/things/8MdZXKl5Wy5-ejemplo-3-interruptor-por-luz-con-ldr/editel?sharecode=PBhHH_ZePjs61tb76Du0z2cDxDqa79N_kU2zb4j024s)
-3. [Ejemplo 3: Distancia con HC-SR04](https://www.tinkercad.com/things/4gGyFkM4FIl-ejemplo-4-distancia-con-hc-sr04/editel?sharecode=CRKsnE2sjzw33e-gDzeWsvJTM6euUXlolhk7zb9KfSo)
-4. Ejemplo 4: Control de motor con driver L298N
-5. Ejemplo 5: Comunicación Bluetooth
-Descargar la App (Android) [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
+1. [Ejemplo 1: Medir temperatura LM35](https://www.tinkercad.com/things/j1Sgh6FL2VY-ejemplo-1-medir-temperatura-lm35/editel?sharecode=bbCT2a7_Yp2XGcmysjesneb_RADTSFbhUz4pL9i3or0)
+2. [Ejemplo 2: Interruptor por luz con LDR](https://www.tinkercad.com/things/8MdZXKl5Wy5-ejemplo-2-interruptor-por-luz-con-ldr/editel?sharecode=z2VCxKV7ihQEUrpgN8QxGCfFzKtvx74urmQ6NPvAVuU)
+3. [Ejemplo 3: Distancia con HC-SR04](https://www.tinkercad.com/things/4gGyFkM4FIl-ejemplo-3-distancia-con-hc-sr04/editel?sharecode=2khNikBzYZS3TgoJhsHS8JCuXeKlYtKeb4PoIVucx5U)
+4. [Ejemplo 4: Control de motor con puente H L293D](https://www.tinkercad.com/things/hCllJGvYryX-ejemplo-1-control-de-motores/editel?sharecode=spil-VAnNVvEp79QVUT9hqPpt68YQ4KQV9saWUV9Nyg)
+5. [Ejemplo 5: Comunicación Bluetooth](https://www.tinkercad.com/things/fmmYj64bNKJ-copy-of-codigo-sensor-pir-con-ejemplo-led/editel?tenant=circuits?sharecode=H2ahMdROkWfSBJfLkIqMBt-DlHSFJ5SUIU0u7aWEc5o)
+<!--Descargar la App (Android) [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)-->
 
 Descargar [Scripts de Arduino](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%202/Module%202.zip?raw=true) del Módulo 2.
 
 Presentación PDF del [Módulo 2](https://github.com/JuliansCastro/Arduino/blob/master/Scripts/Module%202/TallerArduinoM%C3%B3dulo2.pdf)
--->
+
 
